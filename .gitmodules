@@ -1,0 +1,21 @@
+[submodule "mobile-app"]
+	path = mobile-app
+	url = git@github.com:VungLiem/mobile-app.git
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:VungLiem/web-app.git
+[submodule "data-crawler"]
+	path = data-crawler
+	url = git@github.com:VungLiem/data-crawler.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:VungLiem/api-gateway.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:VungLiem/product-service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:VungLiem/user-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:VungLiem/auth-service.git
