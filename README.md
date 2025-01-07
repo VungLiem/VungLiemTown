@@ -35,6 +35,11 @@ The primary criterion for the platform is entertainment, ensuring that users hav
 
 ```plaintext
 VungLiemTown/
+├── ui-component/
+│ ├── src/
+│ │ ├── Button.js
+│ │ ├── index.js
+│ └── package.json
 │
 ├── auth-service/
 │   ├── src/

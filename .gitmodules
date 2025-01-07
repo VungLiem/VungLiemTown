@@ -19,3 +19,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = git@github.com:VungLiem/auth-service.git
+[submodule "ui-component"]
+	path = ui-component
+	url = git@github.com:VungLiem/ui-component.git
